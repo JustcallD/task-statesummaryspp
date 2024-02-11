@@ -1,0 +1,754 @@
+{
+  "Maharashtra": [
+    {
+      "city": "Mumbai",
+      "temperature": 30,
+      "population": 123144223,
+      "GDP": 422.14,
+      "area": 60377,
+      "literacyRate": 82.34,
+      "povertyRate": 16.1
+    },
+    {
+      "city": "Pune",
+      "temperature": 29,
+      "population": 56787654,
+      "GDP": 342.78,
+      "area": 45687,
+      "literacyRate": 75.23,
+      "povertyRate": 19.8
+    },
+    {
+      "city": "Nagpur",
+      "temperature": 32,
+      "population": 98765432,
+      "GDP": 288.91,
+      "area": 34598,
+      "literacyRate": 81.55,
+      "povertyRate": 14.3
+    },
+    {
+      "city": "Nashik",
+      "temperature": 29,
+      "population": 45678901,
+      "GDP": 211.45,
+      "area": 25789,
+      "literacyRate": 77.89,
+      "povertyRate": 21.6
+    },
+    {
+      "city": "Aurangabad",
+      "temperature": 31,
+      "population": 34567890,
+      "GDP": 179.22,
+      "area": 19876,
+      "literacyRate": 80.76,
+      "povertyRate": 18.4
+    }
+  ],
+  "Uttar Pradesh": [
+    {
+      "city": "Lucknow",
+      "temperature": 32,
+      "population": 237882725,
+      "GDP": 240.82,
+      "area": 349.44,
+      "literacyRate": 67.68,
+      "povertyRate": 29.43
+    },
+    {
+      "city": "Kanpur",
+      "temperature": 31,
+      "population": 198765432,
+      "GDP": 188.76,
+      "area": 403.7,
+      "literacyRate": 69.22,
+      "povertyRate": 32.17
+    },
+    {
+      "city": "Agra",
+      "temperature": 33,
+      "population": 165432789,
+      "GDP": 156.43,
+      "area": 188.4,
+      "literacyRate": 71.54,
+      "povertyRate": 27.89
+    },
+    {
+      "city": "Varanasi",
+      "temperature": 30,
+      "population": 234567890,
+      "GDP": 200.55,
+      "area": 112.26,
+      "literacyRate": 65.21,
+      "povertyRate": 34.56
+    },
+    {
+      "city": "Prayagraj",
+      "temperature": 32,
+      "population": 213456789,
+      "GDP": 220.34,
+      "area": 363.04,
+      "literacyRate": 70.89,
+      "povertyRate": 28.76
+    }
+  ],
+  "Karnataka": [
+    {
+      "city": "Bangalore",
+      "temperature": 25,
+      "population": 67562686,
+      "GDP": 220.9,
+      "area": 709,
+      "literacyRate": 75.36,
+      "povertyRate": 20.91
+    },
+    {
+      "city": "Mysore",
+      "temperature": 24,
+      "population": 53789234,
+      "GDP": 198.76,
+      "area": 128.42,
+      "literacyRate": 72.88,
+      "povertyRate": 23.45
+    },
+    {
+      "city": "Hubli",
+      "temperature": 27,
+      "population": 67432198,
+      "GDP": 215.67,
+      "area": 213.8,
+      "literacyRate": 70.45,
+      "povertyRate": 21.34
+    },
+    {
+      "city": "Mangalore",
+      "temperature": 26,
+      "population": 59876543,
+      "GDP": 180.34,
+      "area": 132.45,
+      "literacyRate": 68.92,
+      "povertyRate": 24.67
+    },
+    {
+      "city": "Belgaum",
+      "temperature": 28,
+      "population": 72134567,
+      "GDP": 235.76,
+      "area": 65.53,
+      "literacyRate": 73.21,
+      "povertyRate": 19.87
+    }
+  ],
+  "Tamil Nadu": [
+    {
+      "city": "Chennai",
+      "temperature": 28,
+      "population": 77841267,
+      "GDP": 276.15,
+      "area": 426,
+      "literacyRate": 80.33,
+      "povertyRate": 11.28
+    },
+    {
+      "city": "Coimbatore",
+      "temperature": 27,
+      "population": 64567890,
+      "GDP": 245.78,
+      "area": 246.75,
+      "literacyRate": 77.89,
+      "povertyRate": 14.56
+    },
+    {
+      "city": "Madurai",
+      "temperature": 29,
+      "population": 70123456,
+      "GDP": 262.89,
+      "area": 147.97,
+      "literacyRate": 79.45,
+      "povertyRate": 12.34
+    },
+    {
+      "city": "Tiruchirappalli",
+      "temperature": 28,
+      "population": 76543210,
+      "GDP": 288.76,
+      "area": 167.23,
+      "literacyRate": 82.11,
+      "povertyRate": 10.98
+    },
+    {
+      "city": "Salem",
+      "temperature": 29,
+      "population": 68876543,
+      "GDP": 255.43,
+      "area": 100.6,
+      "literacyRate": 78.65,
+      "povertyRate": 13.45
+    }
+  ],
+  "Gujarat": [
+    {
+      "city": "Ahmedabad",
+      "temperature": 35,
+      "population": 63872399,
+      "GDP": 225.06,
+      "area": 464,
+      "literacyRate": 79.31,
+      "povertyRate": 16.63
+    },
+    {
+      "city": "Surat",
+      "temperature": 34,
+      "population": 57654321,
+      "GDP": 200.54,
+      "area": 326.5,
+      "literacyRate": 76.87,
+      "povertyRate": 18.32
+    },
+    {
+      "city": "Vadodara",
+      "temperature": 36,
+      "population": 68765432,
+      "GDP": 240.98,
+      "area": 235.5,
+      "literacyRate": 81.45,
+      "povertyRate": 14.76
+    },
+    {
+      "city": "Rajkot",
+      "temperature": 35,
+      "population": 62134567,
+      "GDP": 210.67,
+      "area": 170.82,
+      "literacyRate": 78.32,
+      "povertyRate": 17.89
+    },
+    {
+      "city": "Bhavnagar",
+      "temperature": 36,
+      "population": 70987654,
+      "GDP": 245.09,
+      "area": 107.3,
+      "literacyRate": 80.76,
+      "povertyRate": 15.43
+    }
+  ],
+  "West Bengal": [
+    {
+      "city": "Kolkata",
+      "temperature": 28,
+      "population": 99387764,
+      "GDP": 155.32,
+      "area": 185,
+      "literacyRate": 76.26,
+      "povertyRate": 19.98
+    },
+    {
+      "city": "Howrah",
+      "temperature": 29,
+      "population": 95432109,
+      "GDP": 140.56,
+      "area": 63.55,
+      "literacyRate": 74.32,
+      "povertyRate": 21.67
+    },
+    {
+      "city": "Durgapur",
+      "temperature": 30,
+      "population": 87450987,
+      "GDP": 135.98,
+      "area": 154.2,
+      "literacyRate": 72.89,
+      "povertyRate": 22.54
+    },
+    {
+      "city": "Asansol",
+      "temperature": 30,
+      "population": 90876543,
+      "GDP": 142.67,
+      "area": 127.32,
+      "literacyRate": 73.45,
+      "povertyRate": 20.98
+    },
+    {
+      "city": "Siliguri",
+      "temperature": 28,
+      "population": 92345678,
+      "GDP": 148.76,
+      "area": 41.9,
+      "literacyRate": 75.21,
+      "povertyRate": 18.76
+    }
+  ],
+  "Rajasthan": [
+    {
+      "city": "Jaipur",
+      "temperature": 38,
+      "population": 77264039,
+      "GDP": 155.1,
+      "area": 484.64,
+      "literacyRate": 66.11,
+      "povertyRate": 14.7
+    },
+    {
+      "city": "Udaipur",
+      "temperature": 36,
+      "population": 65432109,
+      "GDP": 130.45,
+      "area": 64.98,
+      "literacyRate": 63.78,
+      "povertyRate": 16.98
+    },
+    {
+      "city": "Jodhpur",
+      "temperature": 39,
+      "population": 70987654,
+      "GDP": 140.89,
+      "area": 228.5,
+      "literacyRate": 67.89,
+      "povertyRate": 15.67
+    },
+    {
+      "city": "Kota",
+      "temperature": 38,
+      "population": 72134567,
+      "GDP": 145.76,
+      "area": 527,
+      "literacyRate": 68.32,
+      "povertyRate": 17.32
+    },
+    {
+      "city": "Ajmer",
+      "temperature": 37,
+      "population": 68765432,
+      "GDP": 132.54,
+      "area": 55,
+      "literacyRate": 65.98,
+      "povertyRate": 18.67
+    }
+  ],
+  "Andhra Pradesh": [
+    {
+      "city": "Hyderabad",
+      "temperature": 32,
+      "population": 53903393,
+      "GDP": 162.97,
+      "area": 650,
+      "literacyRate": 67.41,
+      "povertyRate": 9.2
+    },
+    {
+      "city": "Visakhapatnam",
+      "temperature": 31,
+      "population": 48675432,
+      "GDP": 145.76,
+      "area": 540,
+      "literacyRate": 65.78,
+      "povertyRate": 10.98
+    },
+    {
+      "city": "Vijayawada",
+      "temperature": 33,
+      "population": 56789012,
+      "GDP": 155.43,
+      "area": 61.88,
+      "literacyRate": 68.45,
+      "povertyRate": 8.76
+    },
+    {
+      "city": "Guntur",
+      "temperature": 32,
+      "population": 54321098,
+      "GDP": 152.34,
+      "area": 45.54,
+      "literacyRate": 66.98,
+      "povertyRate": 9.87
+    },
+    {
+      "city": "Nellore",
+      "temperature": 33,
+      "population": 58901234,
+      "GDP": 158.67,
+      "area": 145.16,
+      "literacyRate": 69.32,
+      "povertyRate": 8.54
+    }
+  ],
+  "Madhya Pradesh": [
+    {
+      "city": "Bhopal",
+      "temperature": 32,
+      "population": 85358965,
+      "GDP": 234.4,
+      "area": 285,
+      "literacyRate": 69.32,
+      "povertyRate": 31.6
+    },
+    {
+      "city": "Indore",
+      "temperature": 31,
+      "population": 75432109,
+      "GDP": 215.67,
+      "area": 530,
+      "literacyRate": 66.98,
+      "povertyRate": 33.45
+    },
+    {
+      "city": "Gwalior",
+      "temperature": 33,
+      "population": 76543210,
+      "GDP": 220.98,
+      "area": 289,
+      "literacyRate": 68.45,
+      "povertyRate": 32.76
+    },
+    {
+      "city": "Jabalpur",
+      "temperature": 32,
+      "population": 78901234,
+      "GDP": 225.43,
+      "area": 290,
+      "literacyRate": 70.32,
+      "povertyRate": 31.43
+    },
+    {
+      "city": "Ujjain",
+      "temperature": 34,
+      "population": 73210987,
+      "GDP": 208.76,
+      "area": 55,
+      "literacyRate": 67.54,
+      "povertyRate": 34.56
+    }
+  ],
+  "Bihar": [
+    {
+      "city": "Patna",
+      "temperature": 34,
+      "population": 124799926,
+      "GDP": 85.8,
+      "area": 99.21,
+      "literacyRate": 61.8,
+      "povertyRate": 33.74
+    },
+    {
+      "city": "Gaya",
+      "temperature": 34,
+      "population": 102938475,
+      "GDP": 90.54,
+      "area": 59.23,
+      "literacyRate": 62.45,
+      "povertyRate": 32.65
+    },
+    {
+      "city": "Bhagalpur",
+      "temperature": 35,
+      "population": 98765432,
+      "GDP": 88.76,
+      "area": 45.37,
+      "literacyRate": 61.43,
+      "povertyRate": 34.21
+    },
+    {
+      "city": "Muzaffarpur",
+      "temperature": 35,
+      "population": 105487963,
+      "GDP": 92.34,
+      "area": 31.5,
+      "literacyRate": 62.89,
+      "povertyRate": 33.09
+    },
+    {
+      "city": "Bihar Sharif",
+      "temperature": 34,
+      "population": 100000000,
+      "GDP": 89.65,
+      "area": 72.37,
+      "literacyRate": 62.01,
+      "povertyRate": 32.98
+    }
+  ],
+  "Punjab": [
+    {
+      "city": "Ludhiana",
+      "temperature": 28,
+      "population": 30141373,
+      "GDP": 108.09,
+      "area": 159.88,
+      "literacyRate": 76.68,
+      "povertyRate": 8.26
+    },
+    {
+      "city": "Amritsar",
+      "temperature": 27,
+      "population": 30241373,
+      "GDP": 109.09,
+      "area": 507,
+      "literacyRate": 76.69,
+      "povertyRate": 8.25
+    },
+    {
+      "city": "Jalandhar",
+      "temperature": 26,
+      "population": 30341373,
+      "GDP": 110.09,
+      "area": 114.6,
+      "literacyRate": 76.7,
+      "povertyRate": 8.24
+    },
+    {
+      "city": "Patiala",
+      "temperature": 25,
+      "population": 30441373,
+      "GDP": 111.09,
+      "area": 50,
+      "literacyRate": 76.71,
+      "povertyRate": 8.23
+    },
+    {
+      "city": "Bathinda",
+      "temperature": 24,
+      "population": 30541373,
+      "GDP": 112.09,
+      "area": 116,
+      "literacyRate": 76.72,
+      "povertyRate": 8.22
+    }
+  ],
+  "Haryana": [
+    {
+      "city": "Faridabad",
+      "temperature": 29,
+      "population": 28672000,
+      "GDP": 95.76,
+      "area": 742,
+      "literacyRate": 76.64,
+      "povertyRate": 11.16
+    },
+    {
+      "city": "Gurugram",
+      "temperature": 28,
+      "population": 28672001,
+      "GDP": 95.77,
+      "area": 732,
+      "literacyRate": 76.65,
+      "povertyRate": 11.17
+    },
+    {
+      "city": "Hisar",
+      "temperature": 27,
+      "population": 28672002,
+      "GDP": 95.78,
+      "area": 27.76,
+      "literacyRate": 76.66,
+      "povertyRate": 11.18
+    },
+    {
+      "city": "Panipat",
+      "temperature": 26,
+      "population": 28672003,
+      "GDP": 95.79,
+      "area": 66.57,
+      "literacyRate": 76.67,
+      "povertyRate": 11.19
+    },
+    {
+      "city": "Ambala",
+      "temperature": 25,
+      "population": 28672004,
+      "GDP": 95.8,
+      "area": 65.5,
+      "literacyRate": 76.68,
+      "povertyRate": 11.2
+    }
+  ],
+  "Kerala": [
+    {
+      "city": "Thiruvananthapuram",
+      "temperature": 27,
+      "population": 35699443,
+      "GDP": 103.75,
+      "area": 250,
+      "literacyRate": 94.0,
+      "povertyRate": 7.05
+    },
+    {
+      "city": "Kochi",
+      "temperature": 26,
+      "population": 35699444,
+      "GDP": 103.76,
+      "area": 94.88,
+      "literacyRate": 94.1,
+      "povertyRate": 7.06
+    },
+    {
+      "city": "Kozhikode",
+      "temperature": 25,
+      "population": 35699445,
+      "GDP": 103.77,
+      "area": 128.4,
+      "literacyRate": 94.2,
+      "povertyRate": 7.07
+    },
+    {
+      "city": "Kollam",
+      "temperature": 24,
+      "population": 35699446,
+      "GDP": 103.78,
+      "area": 73.03,
+      "literacyRate": 94.3,
+      "povertyRate": 7.08
+    },
+    {
+      "city": "Thrissur",
+      "temperature": 23,
+      "population": 35699447,
+      "GDP": 103.79,
+      "area": 101.42,
+      "literacyRate": 94.4,
+      "povertyRate": 7.09
+    }
+  ],
+  "Telangana": [
+    {
+      "city": "Hyderabad",
+      "temperature": 35,
+      "population": 37220000,
+      "GDP": 93.5,
+      "area": 217.0,
+      "literacyRate": 66.46,
+      "povertyRate": 9.2
+    },
+    {
+      "city": "Warangal",
+      "temperature": 34,
+      "population": 37220001,
+      "GDP": 93.51,
+      "area": 471.0,
+      "literacyRate": 66.47,
+      "povertyRate": 9.21
+    },
+    {
+      "city": "Nizamabad",
+      "temperature": 33,
+      "population": 37220002,
+      "GDP": 93.52,
+      "area": 255.0,
+      "literacyRate": 66.48,
+      "povertyRate": 9.22
+    },
+    {
+      "city": "Karimnagar",
+      "temperature": 32,
+      "population": 37220003,
+      "GDP": 93.53,
+      "area": 240.0,
+      "literacyRate": 66.49,
+      "povertyRate": 9.23
+    },
+    {
+      "city": "Ramagundam",
+      "temperature": 31,
+      "population": 37220004,
+      "GDP": 93.54,
+      "area": 260.0,
+      "literacyRate": 66.5,
+      "povertyRate": 9.24
+    }
+  ],
+  "Odisha": [
+    {
+      "city": "Bhubaneswar",
+      "temperature": 34,
+      "population": 43771000,
+      "GDP": 65.5,
+      "area": 422,
+      "literacyRate": 72.87,
+      "povertyRate": 32.6
+    },
+    {
+      "city": "Cuttack",
+      "temperature": 33,
+      "population": 43771001,
+      "GDP": 65.51,
+      "area": 192,
+      "literacyRate": 72.88,
+      "povertyRate": 32.61
+    },
+    {
+      "city": "Rourkela",
+      "temperature": 32,
+      "population": 43771002,
+      "GDP": 65.52,
+      "area": 200,
+      "literacyRate": 72.89,
+      "povertyRate": 32.62
+    },
+    {
+      "city": "Berhampur",
+      "temperature": 31,
+      "population": 43771003,
+      "GDP": 65.53,
+      "area": 67.5,
+      "literacyRate": 72.9,
+      "povertyRate": 32.63
+    },
+    {
+      "city": "Sambalpur",
+      "temperature": 30,
+      "population": 43771004,
+      "GDP": 65.54,
+      "area": 104,
+      "literacyRate": 72.91,
+      "povertyRate": 32.64
+    }
+  ],
+  "Assam": [
+    {
+      "city": "Guwahati",
+      "temperature": 32,
+      "population": 35607039,
+      "GDP": 76.32,
+      "area": 216,
+      "literacyRate": 72.19,
+      "povertyRate": 32.9
+    },
+    {
+      "city": "Dibrugarh",
+      "temperature": 31,
+      "population": 35607040,
+      "GDP": 76.33,
+      "area": 66.68,
+      "literacyRate": 72.2,
+      "povertyRate": 32.91
+    },
+    {
+      "city": "Silchar",
+      "temperature": 30,
+      "population": 35607041,
+      "GDP": 76.34,
+      "area": 15.75,
+      "literacyRate": 72.21,
+      "povertyRate": 32.92
+    },
+    {
+      "city": "Jorhat",
+      "temperature": 29,
+      "population": 35607042,
+      "GDP": 76.35,
+      "area": 28.35,
+      "literacyRate": 72.22,
+      "povertyRate": 32.93
+    },
+    {
+      "city": "Nagaon",
+      "temperature": 28,
+      "population": 35607043,
+      "GDP": 76.36,
+      "area": 107.74,
+      "literacyRate": 72.23,
+      "povertyRate": 32.94
+    }
+  ]
+}

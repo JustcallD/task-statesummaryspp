@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Maharashtra",
+    "temperature": 30,
+    "population": 123144223,
+    "cities": ["Mumbai", "Pune", "Nagpur", "Nashik", "Aurangabad"],
+    "GDP": 422.14,
+    "literacyRate": 82.34,
+    "povertyRate": 16.1,
+    "landmarks": ["Gateway of India", "Ajanta and Ellora Caves", "Marine Drive"]
+  },
+  {
+    "name": "Uttar Pradesh",
+    "temperature": 32,
+    "population": 237882725,
+    "cities": ["Lucknow", "Kanpur", "Agra", "Varanasi", "Prayagraj"],
+    "GDP": 240.82,
+    "literacyRate": 67.68,
+    "povertyRate": 29.43,
+    "landmarks": ["Taj Mahal", "Varanasi", "Fatehpur Sikri"]
+  },
+  {
+    "name": "Karnataka",
+    "temperature": 25,
+    "population": 67562686,
+    "cities": ["Bangalore", "Mysore", "Hubli", "Mangalore", "Belgaum"],
+    "GDP": 220.9,
+    "literacyRate": 75.36,
+    "povertyRate": 20.91,
+    "landmarks": ["Mysore Palace", "Hampi", "Gol Gumbaz"]
+  },
+  {
+    "name": "Tamil Nadu",
+    "temperature": 28,
+    "population": 77841267,
+    "cities": ["Chennai", "Coimbatore", "Madurai", "Tiruchirappalli", "Salem"],
+    "GDP": 276.15,
+    "literacyRate": 80.33,
+    "povertyRate": 11.28,
+    "landmarks": ["Meenakshi Temple", "Marina Beach", "Mahabalipuram"]
+  },
+  {
+    "name": "Gujarat",
+    "temperature": 35,
+    "population": 63872399,
+    "cities": ["Ahmedabad", "Surat", "Vadodara", "Rajkot", "Bhavnagar"],
+    "GDP": 225.06,
+    "literacyRate": 79.31,
+    "povertyRate": 16.63,
+    "landmarks": ["Sabarmati Ashram", "Statue of Unity", "Rani Ki Vav"]
+  },
+  {
+    "name": "West Bengal",
+    "temperature": 28,
+    "population": 99387764,
+    "cities": ["Kolkata", "Howrah", "Durgapur", "Asansol", "Siliguri"],
+    "GDP": 155.32,
+    "literacyRate": 76.26,
+    "povertyRate": 19.98,
+    "landmarks": [
+      "Victoria Memorial",
+      "Sunderbans",
+      "Darjeeling Himalayan Railway"
+    ]
+  },
+  {
+    "name": "Rajasthan",
+    "temperature": 38,
+    "population": 77264039,
+    "cities": ["Jaipur", "Udaipur", "Jodhpur", "Kota", "Ajmer"],
+    "GDP": 155.1,
+    "literacyRate": 66.11,
+    "povertyRate": 14.7,
+    "landmarks": ["Jaipur City Palace", "Amber Fort", "Jaisalmer Fort"]
+  },
+  {
+    "name": "Andhra Pradesh",
+    "temperature": 32,
+    "population": 53903393,
+    "cities": ["Hyderabad", "Visakhapatnam", "Vijayawada", "Guntur", "Nellore"],
+    "GDP": 162.97,
+    "literacyRate": 67.41,
+    "povertyRate": 9.2,
+    "landmarks": ["Charminar", "Tirumala Venkateswara Temple", "Araku Valley"]
+  },
+  {
+    "name": "Madhya Pradesh",
+    "temperature": 32,
+    "population": 85358965,
+    "cities": ["Bhopal", "Indore", "Gwalior", "Jabalpur", "Ujjain"],
+    "GDP": 234.4,
+    "literacyRate": 69.32,
+    "povertyRate": 31.6,
+    "landmarks": [
+      "Khajuraho Temples",
+      "Sanchi Stupa",
+      "Bandhavgarh National Park"
+    ]
+  },
+  {
+    "name": "Bihar",
+    "temperature": 34,
+    "population": 124799926,
+    "cities": ["Patna", "Gaya", "Muzaffarpur", "Bhagalpur", "Purnia"],
+    "GDP": 85.8,
+    "literacyRate": 61.8,
+    "povertyRate": 33.74,
+    "landmarks": [
+      "Mahabodhi Temple",
+      "Nalanda University",
+      "Vikramshila University"
+    ]
+  },
+  {
+    "name": "Punjab",
+    "temperature": 28,
+    "population": 30141373,
+    "cities": ["Ludhiana", "Amritsar", "Jalandhar", "Patiala", "Bathinda"],
+    "GDP": 108.09,
+    "literacyRate": 76.68,
+    "povertyRate": 8.26,
+    "landmarks": ["Golden Temple", "Jallianwala Bagh", "Wagah Border"]
+  },
+  {
+    "name": "Haryana",
+    "temperature": 28,
+    "population": 28672000,
+    "cities": ["Faridabad", "Gurugram", "Hisar", "Panipat", "Ambala"],
+    "GDP": 95.76,
+    "literacyRate": 76.64,
+    "povertyRate": 11.16,
+    "landmarks": ["Sultanpur National Park", "Surajkund", "Kurukshetra"]
+  },
+  {
+    "name": "Kerala",
+    "temperature": 28,
+    "population": 35699443,
+    "cities": [
+      "Thiruvananthapuram",
+      "Kochi",
+      "Kozhikode",
+      "Kollam",
+      "Thrissur"
+    ],
+    "GDP": 103.75,
+    "literacyRate": 94.0,
+    "povertyRate": 7.05,
+    "landmarks": ["Backwaters of Alleppey", "Athirappilly Falls", "Kumarakom"]
+  },
+  {
+    "name": "Telangana",
+    "temperature": 32,
+    "population": 35003674,
+    "cities": ["Hyderabad", "Warangal", "Nizamabad", "Khammam", "Karimnagar"],
+    "GDP": 112.5,
+    "literacyRate": 66.46,
+    "povertyRate": 9.2,
+    "landmarks": ["Charminar", "Golkonda", "Ramoji Film City"]
+  },
+  {
+    "name": "Odisha",
+    "temperature": 32,
+    "population": 43771000,
+    "cities": ["Bhubaneswar", "Cuttack", "Rourkela", "Berhampur", "Sambalpur"],
+    "GDP": 65.5,
+    "literacyRate": 72.87,
+    "povertyRate": 32.6,
+    "landmarks": ["Puri Beach", "Konark Sun Temple", "Chilika Lake"]
+  }
+]

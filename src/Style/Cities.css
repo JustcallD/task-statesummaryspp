@@ -1,0 +1,44 @@
+/* Cities.css */
+
+.cities-container {
+  margin: 20px;
+}
+
+.state-name {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.charts-container {
+  display: flex;
+  flex-direction: column;
+ gap: 20px;
+}
+
+.chart-box {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.chart {
+  flex: 1;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.table-container {
+  width: 100%;
+}
+
+.pieChart,
+.chart,
+.table-container {
+  background-color: #f4f4f4;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.pieChart {
+  width: auto;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
